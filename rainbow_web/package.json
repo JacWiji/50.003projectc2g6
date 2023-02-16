@@ -14,7 +14,7 @@
     "rainbow-web-sdk": "^1.67.0"
   },
   "devDependencies": {
-    "chromedriver": "^80.0.1",
+    "chromedriver": "^110.0.0",
     "geckodriver": "^1.19.1",
     "http-server": "^0.12.1",
     "jest": "^25.1.0",
